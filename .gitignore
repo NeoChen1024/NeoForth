@@ -1,0 +1,4 @@
+*.o
+*.a
+neoforth
+compile_commands.json
